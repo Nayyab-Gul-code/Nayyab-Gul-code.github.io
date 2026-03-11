@@ -7,7 +7,8 @@
 
 > A fully responsive, modern personal portfolio website built with pure HTML and CSS — hosted for free on GitHub Pages.
 
-🔗 **Live Website:** [https://nayyabgul5465233-code.github.io](https://nayyabgul5465233-code.github.io)
+🔗 **Live Website:** [(https://nayyab-gul-code.github.io/)]
+(https://nayyab-gul-code.github.io/)
 
 ---
 
