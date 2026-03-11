@@ -1,6 +1,6 @@
 # 🌐 Nayyab Gul — Personal Portfolio Website
 
-[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)](https://nayyabgul5465233-code.github.io)
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)](https://nayyab-gul-code.github.io)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat)]()
