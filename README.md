@@ -39,7 +39,7 @@ The website is completely **free to host** using GitHub Pages, which means anyon
 ## 🗂️ Project Structure
 
 ```
-nayyabgul5465233-code.github.io/
+nayyab-gul-code.github.io/
 │
 ├── index.html        ← Main website file (homepage)
 └── README.md         ← Project documentation (this file)
@@ -108,7 +108,7 @@ A subtle `fadeUp` keyframe animation plays when the page loads, making the hero 
 **Step 1 — Create a GitHub Repository**
 - Go to [github.com](https://github.com) and sign in
 - Click the **"+"** button at the top right → select **"New repository"**
-- Set the repository name to exactly: `nayyabgul5465233-code.github.io`
+- Set the repository name to exactly: `nayyab_gul-code.github.io`
 - Set visibility to **Public**
 - Click **"Create repository"**
 
@@ -127,7 +127,7 @@ A subtle `fadeUp` keyframe animation plays when the page loads, making the hero 
 - Wait 2–3 minutes for GitHub to build and deploy the site
 - Open your browser and visit:
   ```
-  https://nayyabgul5465233-code.github.io
+  https://nayyab-gul-code.github.io
   ```
 
 ---
@@ -174,8 +174,8 @@ This project is open source and completely free to use. You are welcome to clone
 ## 👩‍💻 Author
 
 **Nayyab Gul**
-- GitHub: [@nayyabgul5465233-code](https://github.com/nayyabgul5465233-code)
-- Live Site: [nayyabgul5465233-code.github.io](https://nayyabgul5465233-code.github.io)
+- GitHub: [@nayyab-gul-code](https://github.com/nayyab-gul-code)
+- Live Site: [nayyab-gul-code.github.io](https://nayyab-gul-code.github.io)
 
 ---
 
